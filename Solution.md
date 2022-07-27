@@ -1,6 +1,6 @@
 There are three steps for the code-along.
 
-Steps 1 and 2 can be found on the following link (the code is initially broken and you will fix it during the Code-along): 
+Steps 1 and 2 can be found on the following link: 
 - [Solution for 1 and 2](https://openprocessing.org/sketch/1592830) 
 
 Step 3 can be found on the following link:
